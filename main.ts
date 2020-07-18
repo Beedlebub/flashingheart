@@ -6,7 +6,7 @@ basic.forever(function () {
         . # # # .
         . . # . .
         `)
-    basic.pause(1000)
+    basic.pause(500)
     basic.showLeds(`
         . # . # .
         # # . . #
