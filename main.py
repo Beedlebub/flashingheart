@@ -6,11 +6,11 @@ def on_forever():
         . # # # .
         . . # . .
         """)
-    basic.pause(1000)
+    basic.pause(500)
     basic.show_leds("""
         . # . # .
         # # . . #
-        # # # . #
+        . # # . #
         . # # . .
         . . # . .
         """)
